@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Johns Hopkins IT@JH Technology Innovation Center
+        IT@JH Technology Innovation Center
       </div>
       <div class="col-lg-6">
       </div>
